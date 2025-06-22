@@ -12,20 +12,4 @@ A robust Python solution for transcribing large audio files by splitting them in
 - **Batch Processing**: Handle multiple files sequentially
 - **Progress Tracking**: Real-time progress indicators
 
-## 🛠 Installation
 
-### Prerequisites
-
-- Python 3.7+
-- ffmpeg
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/audio-chunk-transcriber.git
-cd audio-chunk-transcriber
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Install ffmpeg (Ubuntu/Debian)
-sudo apt install ffmpeg
