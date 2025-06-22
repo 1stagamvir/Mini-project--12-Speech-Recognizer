@@ -1,22 +1,7 @@
-# Mini project-12 Speech Recognizer
-# Audio Chunk Transcriber 🎤→📝
+# Mini project-12 Speech Recognizer 🎤→📝
 
-![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
 A robust Python solution for transcribing large audio files by splitting them into manageable chunks based on silence detection.
-
-## Table of Contents
-- [Features](#-features)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Configuration](#%EF%B8%8F-configuration)
-- [Project Structure](#-project-structure)
-- [Examples](#-examples)
-- [Limitations](#-limitations)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ## ✨ Features
 
