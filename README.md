@@ -1,4 +1,4 @@
-# Mini project-12 Speech Recognizer 🎤→📝
+# Mini project-12 Speech To Text 🎤→📝
 
 
 A robust Python solution for transcribing large audio files by splitting them into manageable chunks based on silence detection.
